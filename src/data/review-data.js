@@ -42,7 +42,7 @@ const review_data = [
   },
   {
     id: 5,
-    name: "alonso d. ekiadolor",
+    name: "alonso d. osakpolor",
     title: "Director",
     image: img_2,
     description:
